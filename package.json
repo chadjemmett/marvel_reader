@@ -1,0 +1,15 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "description": "A thingy to read marvel comics synopsis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Chad Jemmett",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "wikia": "0.0.4"
+  }
+}
